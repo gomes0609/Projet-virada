@@ -1,0 +1,39 @@
+*{
+margin: 0;
+padding: 0;
+}
+.imagem01{
+width: 100%;
+height: 800px;
+background: url(imagens/imagem01.jpg) no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+*{
+    margin: 0;
+    padding: 0;
+    }
+    .imagem02{
+    width: 100%;
+    height: 800px;
+    background: url(imagens/imagem02.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        }
+        .imagem03{
+        width: 100%;
+        height: 800px;
+        background: url(imagens/imagem03.jpg) no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        }
+        .faixa{
+            width: 100px;
+            height: 250px;
+            background-color: black;
+
+        }
